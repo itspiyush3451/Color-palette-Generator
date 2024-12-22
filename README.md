@@ -52,7 +52,7 @@ https://stackoverflow.com/questions/30003353/how-to-write-an-arrow-in-markdown
 git checkout vrt
 ```
 
-#### &rarr; Repo Url: https://github.com/purnasth/vite-react-tailwind-starter-kit/tree/vrt
+#### &rarr; Repo Url: https://github.com/itspiyush3451/Color-palette-Generator/tree/vrt
 
 ### &rarr; for `TypeScript`
 
@@ -60,7 +60,7 @@ git checkout vrt
 git checkout vrt-ts
 ```
 
-#### &rarr; Repo Url: https://github.com/purnasth/vite-react-tailwind-starter-kit/tree/vrt-ts
+#### &rarr; Repo Url: https://github.com/itspiyush3451/Color-palette-Generator/tree/vrt-ts
 
 #
 
@@ -83,7 +83,7 @@ npm run dev
 ### 1. Clone this repo`*`
 
 ```sh
-git clone https://github.com/purnasth/vite-react-tailwind-starter.git
+git clone https://github.com/itspiyush3451/Color-palette-Generator.git
 ```
 
 
