@@ -93,7 +93,7 @@ git clone https://github.com/itspiyush3451/Color-palette-Generator.git
 the main branch
 ```
 
-#### &rarr; Repo Url: https://github.com/purnasth/vite-react-tailwind-starter-kit/
+#### &rarr; Repo Url: https://github.com/itspiyush3451/Color-palette-Generator-kit/
 
 #
 
