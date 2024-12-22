@@ -39,7 +39,7 @@
 ### 1. Clone this repo`*`
 
 ```sh
-git clone https://github.com/purnasth/vite-react-tailwind-starter.git
+git clone https://github.com/itspiyush3451/Color-palette-Generator.git
 ```
 
 ### &rarr; for `jsx`
